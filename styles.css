@@ -234,3 +234,22 @@ main {
     margin-top: 55px;
     margin-right: 55px;
 }
+
+
+.action-container {
+    width: 100%;
+    height: 400px;
+}
+
+.action-secondary-container {
+    padding: 10% 15%;
+    background-color: var(--bg-cta);
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta-text{
+    text-align: left;
+
+}
